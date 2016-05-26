@@ -30,4 +30,7 @@ sudo apt-add-repository -y ppa:nickguletskii200/glxosd && sudo apt update && sud
 
 Then just run the *make* command.
 
+#Running the app
+
+Once you have built the app just run the *main* binary, you'll see a black screen. If you press the *R* key on your keyboard the screen will change to RED, if you press the *G* will turn it into green and the *B* into blue.
 Have fun!
