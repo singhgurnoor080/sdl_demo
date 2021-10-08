@@ -9,7 +9,7 @@
 #include <SDL2/SDL.h>
 
 std::string programName = "SDL2 - OpenGL thing";
-
+// Adding Znode
 // Our SDL_Window ( just like with SDL2 wihout OpenGL)
 SDL_Window *mainWindow;
 
@@ -22,6 +22,7 @@ void CheckSDLError(int line);
 void RunGame();
 void Cleanup();
 
+// Adding 
 
 bool Init()
 {
